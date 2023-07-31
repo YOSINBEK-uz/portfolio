@@ -10,6 +10,6 @@ nav1.addEventListener("click", function () {
 var typed=new Typed(".input",{
     strings:["Frontend Developer","UX Designer","Web Developer"],
     typedSpeed:70,
-    backSpeed:55,
+    backSpeed:80,
     loop:true
 })
